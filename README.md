@@ -19,6 +19,6 @@ The Shiny application in question is entirely up to you. However, if you're havi
 
 Link to HTML Report: [Click Here](http://libraguysgp.github.io/Developing_Data_Product_Course-Project/Presentation/Developing_Data_Product_Course Project_Presentation.html)
 
-Link to the Github Repo: [Click Here](https://github.com/libraguysgp/Developing_Data_Product_Course-Project)
+Link to the Github Repo: [Click Here](https://github.com/libraguysgp/Developing-Data-Product-Course-Project)
 
 Link to the Shiny Portal: [Click Here] (https://libraguysgp.shinyapps.io/DevelopingDataProductsProject)
